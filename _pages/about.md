@@ -6,7 +6,7 @@ subtitle: Research Associate | <a href="https://www.colorado.edu/aerospace/">Uni
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Hyeyeon_Chang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Satellite Navigation and Sensing Laboratory</p>
